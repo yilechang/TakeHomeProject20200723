@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TakeHomeProject20200723/precache-manifest.bb13bf429ea505e608d0658b99f9f5c0.js"
+  "/TakeHomeProject20200723/precache-manifest.f08cbb2d9d7757d2149ba47057c209aa.js"
 );
 
 self.addEventListener('message', (event) => {
